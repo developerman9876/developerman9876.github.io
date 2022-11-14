@@ -1,5 +1,8 @@
 body {
-    background-image:url("https://developerman9876.github.io/assets/images/background.png");
-    height: 700px;
-    width: 100%;
+    background-image:url('../assets/images/wallpaper.png');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    width: 90%;
+    height: 90;
 }
