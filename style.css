@@ -1,15 +1,16 @@
 body {
-    background-color: rgb(39, 37, 37);
+    background-image: url(../assets/images/wallpaper.png);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    width: 90%;
-    height: 90;
+    width: auto;
+    height: auto;
 }
 
 /* Top navigation bar */
 .topnav {
     background-color: rgb(128, 14, 151);
+    border-radius: 8px;
     overflow: hidden;
   }
   
